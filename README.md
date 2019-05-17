@@ -16,3 +16,8 @@ Run node app.js to start the server.  (Hit CTRL-C to stop.)
 ```
 
 Point your browser to `http://localhost:8081`. 
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
